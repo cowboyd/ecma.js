@@ -1,5 +1,7 @@
 # javascript.js
 
+[![Build Status](https://travis-ci.org/cowboyd/javascript.js.svg?branch=master)](https://travis-ci.org/cowboyd/javascript.js)
+
 How often do you have code like this?
 
 ```js
