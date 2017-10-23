@@ -1,9 +1,5 @@
 # javascript.js
 
-Static imports for JavaScript builtins.
-
-## Lexical Everything
-
 How often do you have code like this?
 
 ```js
