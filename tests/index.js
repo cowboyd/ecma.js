@@ -2,7 +2,7 @@
 require('mocha');
 require('chai');
 require = require("@std/esm")(module, { esm: 'js' });
-require('./javascript-test');
+require('./ecma-test');
 require('./object-test');
 require('./math-test');
 require('./array-test');

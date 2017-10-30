@@ -1,12 +1,12 @@
 {
-  "name": "javascript",
-  "version": "0.1.0",
+  "name": "ecma",
+  "version": "1.0.0",
   "description": "Statically import JavaScript builtins",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests/index"
   },
-  "repository": "https://github.com/cowboyd/javascript.js",
+  "repository": "https://github.com/cowboyd/ecma.js",
   "author": "Charles Lowell <cowboyd@frontside.io>",
   "license": "MIT",
   "private": false,

@@ -4,15 +4,15 @@ import mocha from 'mocha';
 const { expect } = chai;
 const { describe, it } = mocha;
 
-import javascript from '../index';
+import ecma from '../index';
 
 import { Object as ObjectExp, String as StringExp, Array as ArrayExp, Math as MathExp } from '../index';
 
-describe('javascript', function() {
+describe('ecma', function() {
   it('has an object with all the globals as its default export', function() {
-    expect(javascript.Object).to.equal(global.Object);
-    expect(javascript.Math).to.equal(global.Math);
-    expect(javascript.Array).to.equal(global.Array);
+    expect(ecma.Object).to.equal(global.Object);
+    expect(ecma.Math).to.equal(global.Math);
+    expect(ecma.Array).to.equal(global.Array);
   });
   it('has Object as a named export', function() {
     expect(ObjectExp).to.equal(global.Object);
