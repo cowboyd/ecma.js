@@ -1,6 +1,6 @@
 {
   "name": "ecma",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Statically import JavaScript builtins",
   "main": "index.js",
   "scripts": {
