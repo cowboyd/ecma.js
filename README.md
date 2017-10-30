@@ -1,5 +1,6 @@
 # ecma.js
 
+[![npm version](https://badge.fury.io/js/ecma.svg)](https://badge.fury.io/js/ecma)
 [![Build Status](https://travis-ci.org/cowboyd/ecma.js.svg?branch=master)](https://travis-ci.org/cowboyd/ecma.js)
 
 How often do you have code like this?
